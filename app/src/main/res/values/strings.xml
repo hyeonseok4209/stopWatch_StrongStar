@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">stopWatch</string>
+    <string name="home_title">스톱워치</string>
+    <string name="history">기록보기</string>
+    <string name="start">시작</string>
+    <string name="init">초기화</string>
+    <string name="timer_save">시간기록</string>
+    <string name="time_stop">시간정지</string>
+    <string name="pause">일시정지</string>
+    <string name="initTime">00:00</string>
+    <string name="back">뒤로가기</string>
+    <string name="delete">DELETE</string>
+</resources>
